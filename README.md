@@ -19,7 +19,7 @@
 
 ## Introduction
 
-**nf-core/seqinspector** -
+<h4><b>nf-core/seqinspector</b></h4>
 <p align="justify"><br>a basic QC pipeline for sequencing core facilities providing high quality data from a range of different sequencing instruments to their users is in the interest of every sequencing facility. In order to monitor their sequencing quality, performing standardized, yet flexible quality controls for every sequencing project and sample that passes through their facilities is crucial to ensure consistent quality and dependable results.</br>
 <br>The Nextflow pipeline nf-core/seqinspector is envisioned as a unified quality control pipeline for sequencing data originating from instruments of various providers like Illumina, Oxford Nanopore Technologies or Pacific Biosciences.</br>
 <br>It will assess sequencing quality, duplication levels and complexity on a per-sample basis, in addition to highlighting adapter contents and technical artifacts. Furthermore, it will facilitate the detection of common biological contaminants that may have been introduced to the samples before or during library preparation.</br>
