@@ -19,8 +19,7 @@
 
 ## Introduction
 
-**nf-core/seqinspector** is a bioinformatics pipeline that ...
-
+<p align="justify"> <b>nf-core/seqinspector</b> is a standardized and flexible bioinformatics pipeline for sequencing data QC, compatible with Illumina, Oxford Nanopore, and PacBio instruments. It assesses sequencing quality, duplication, adapter content, technical artifacts, and biological contaminants, generating customizable MultiQC reports suitable for core facilities and research groups.</p>
 <!-- TODO nf-core:
    Complete this sentence with a 2-3 sentence summary of what types of data the pipeline ingests, a brief overview of the
    major pipeline sections and the types of output it produces. You're giving an overview to someone new
