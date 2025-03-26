@@ -6,6 +6,13 @@
 
 ## Introduction
 
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/images/seqinspector_poster_2024_v4.png">
+    <img src="images/seqinspector_poster_2024_v4.png">
+  </picture>
+</h1>
+
 <!-- TODO nf-core: Add documentation about anything specific to running your pipeline. For general topics, please point to (and add to) the main nf-core website. -->
 
 ## Samplesheet input
